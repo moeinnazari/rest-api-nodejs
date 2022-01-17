@@ -1,27 +1,32 @@
 [
 	{
 		"id": "10",
-		"name": "moein",
-		"age": "44"
+		"name": "Samsung Galaxy S21 Ultra",
+		"description": "The Samsung Galaxy S21 Ultra is the headliner of the S21 series. It's the first S series phone to support Samsung's S Pen. Specifications are top-notch including Snapdragon 888 chipset, 5G capability, up to 16gigs of RAM, and 512GB of storage. A 5000mAh battery keeps the lights on for this powerhouse. In the camera department, a quad-camera setup is presented with two telephoto sensors. The Samsung Galaxy S21 Ultra starting price is $1200.",
+		"price":"$1200"
 	},
 	{
 		"id": "11",
-		"name": "mona",
-		"age": "55"
+		"name": "Google Pixel 6 Pro",
+		"description": "The Google Pixel 6 Pro is the most expensive phone in the Pixel family yet. It comes with processor designed by Google called Tensor and has big 5003 mAh battery with 30W charging speed. On the back it features triple camera setup with 50 MP main sensor, Telefoto camera, and Ultra wide sensor. The prices of the Pixel 6 Pro starts from $899.",
+		"price":"$899"
 	},
 	{
 		"id": "12",
-		"name": "hashem",
-		"age": "22"
+		"name": "Apple iPhone 13 Pro",
+		"description": "The iPhone 13 Pro is Apple's smaller premium iPhone with a 6.1 inch screen size and for the first time in an iPhone, it comes with a 120Hz ProMotion display for super smooth scrolling. The list of innovations includes a more capable triple camera setup, with a wide, ultra-wide and zoom cameras, as well as a LiDAR scanner.",
+		"price":"$999"
 	},
 	{
 		"id": "14",
-		"name": "moein nazari",
-		"age": "55"
+		"name": "OnePlus 9",
+		"description": "OnePlus 9 packs a 6.5-inch screen with a 20:9 ratio and a resolution of 2400 x 1080. It’s an OLED panel with vivid colors and a 120 Hz refresh rate. It has a quad camera setup of which the main snapper is 48MP's and the one above it is a 50 MP ultra-wide camera. The chipset is a Qualcomm Snapdragon 888 and the OnePlus 9 can come with either 8 GB of RAM and 128 GB of storage, or 12 GB of RAM with 256 GB of storage. No microSD slot on board.",
+		"price":"$729"
 	},
 	{
 		"id": "15",
-		"name": "naser",
-		"age": "33"
+		"name": "Xiaomi 11T Pro",
+		"description": "The Xioami 11T Pro comes with big 6.67-inch AMOLED display with 120Hz refresh rate and 5000mAh battery that is capable of 120W charging speeds. The specifications also include Qualcomm Snapdragon 888 processor, triple camera on the back with 108MP main sensor and android 11 out of the box.",
+		"price":"$624"
 	}
 ]
