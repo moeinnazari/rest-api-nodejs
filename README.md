@@ -5,7 +5,7 @@ a simple rest api made with vanilla node js
 []( https://moeinnazari.github.io/rest-api-nodejs/)
 
 
-[demo](https://rest-api-nodejs-960uoa2x2-moeinnazari.vercel.app/api/products)
+[demo](https://rest-api-nodejs.vercel.app/api/products)
 
 ## Routes
 ```
